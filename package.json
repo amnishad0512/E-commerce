@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/amnishad0512/E-commerce/issues"
   },
-  "homepage": "https://github.com/amnishad0512/E-commerce#readme"
+  "homepage": "https://github.com/amnishad0512/E-commerce#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  }
 }
